@@ -7,3 +7,6 @@ The infrastructures are:
  - 2 public subnets (for direct interaction of users). All act as a facade for the private subnets.
  - Nat Gateways (facades for our running services).
  - Route table (for traffic control within the vpc and between the subnets).
+ - Instance Provisioning
+ - Security group
+ 
