@@ -1,4 +1,4 @@
-## ALXT Infrastructure as Code Challenge
+## ALXT Infrastructure as Code Challenge - Challenge 2
 This project creates the required Infrastructure-as-code scripts for a new cloud environment in AWS
 The infrastructures are:
  - VPC
